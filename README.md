@@ -1,6 +1,6 @@
-### WhatsApp MD User Bot
+### KAPTAIN MD BOT
 
-A simple WhatsApp User bot.
+A simple simple multi device whatsapp bot.
 
 ## Setup
 
@@ -56,7 +56,7 @@ A simple WhatsApp User bot.
 
              echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
              PREFIX = .
-             STICKER_PACKNAME = LyFE
+             STICKER_PACKNAME = Kaptain
              ALWAYS_ONLINE = false
              RMBG_KEY = null
              LANGUAG = en
@@ -65,7 +65,7 @@ A simple WhatsApp User bot.
              BRAINSHOP = 159501,6pq8dPiYt7PdqHz3
              MAX_UPLOAD = 200
              REJECT_CALL = false
-             SUDO = 989876543210
+             SUDO = 07035619894
              TZ = Asia/Kolkata
              VPS = true
              AUTO_STATUS_VIEW = true
@@ -82,7 +82,7 @@ A simple WhatsApp User bot.
         - To start the bot: `pm2 start . --name botName --attach --time`
         - To stop the bot: `pm2 stop botName`
 
-### Thanks To
+### Thanks To kaptain 
 
 - [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
 - [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
