@@ -1,4 +1,4 @@
-### KAPTAIN MD BOT
+. ### KAPTAIN MD BOT
 
 A simple simple multi device whatsapp bot.
 
@@ -25,7 +25,7 @@ A simple simple multi device whatsapp bot.
 
    - Install with script
 
-         wget -N -O levanter.sh http://bit.ly/43JqREw && chmod +x levanter.sh && ./levanter.sh
+         wget -N -O KAPTAIN.sh http://bit.ly/43JqREw && chmod +x levanter.sh && ./levanter.sh
 
    - Install without a script
        - Install git, ffmpeg, and curl:
@@ -84,5 +84,6 @@ A simple simple multi device whatsapp bot.
 
 ### Thanks To kaptain 
 
-- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
-- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
+- [ELITE JAH] 
+- [SMILES TV]
+-	[REHOBOTH] 
