@@ -1,4 +1,4 @@
-. ### KAPTAIN MD BOT
+. ### KAPTAIN MD BOT ###
 
 A simple simple multi device whatsapp bot.
 
@@ -9,7 +9,7 @@ A simple simple multi device whatsapp bot.
    - You will get a session ID in WhatsApp, copy the ID only.
    - If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).
    - If you don't have a GitHub account, [sign up](https://github.com/join) now.
-   - [FORK](https://github.com/lyfe00011/whatsapp-bot-md/fork) this repository.
+   - [FORK](https://https://github.com/kapitalizedk/kaptain/fork) this repository.
    - Now [DEPLOY](https://qr-hazel-alpha.vercel.app/heroku).
 
 2. Deploy on Koyeb
@@ -84,6 +84,6 @@ A simple simple multi device whatsapp bot.
 
 ### Thanks To kaptain 
 
-- [ELITE JAH] 
-- [SMILES TV]
--	[REHOBOTH] 
+- ### [ELITE- JAH] 
+- ### [SMILES TV]
+-	### [REHOBOTH] 
